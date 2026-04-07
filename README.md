@@ -1,12 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=350&section=header&text=gyunii&fontSize=100)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyunii&show_icons=true&theme=rose_pine"/>
-</div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{gyunii}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/gyunii" width="1000" height="120"/>
 </a>
 
 <h3 align="center"> 📚 LEARNING 📚 </h3>
