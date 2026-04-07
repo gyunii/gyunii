@@ -2,8 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=350&section=header&text=gyunii&fontSize=100)
 
 
-<div align="center">
-  <img src="https://render.gitanimals.org/farms/gyunii" width="800"/>
+<div align="center"> 
+  <a href="https://github.com/devxb/gitanimals"> 
+    <img src="https://render.gitanimals.org/farms/gyunii"/> 
+  </a> 
 </div>
 
 
