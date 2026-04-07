@@ -3,10 +3,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{gyunii}"/>
-  </a>
+  <img src="https://render.gitanimals.org/farms/gyunii" width="800"/>
 </div>
+
+
 
 <h3 align="center"> 📚 LEARNING 📚 </h3>
 
