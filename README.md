@@ -37,7 +37,7 @@
 </a>
 
 
-<a href="https://www.instagram.com/rbs1ey"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rbs1ey"/></a>
+
 </div> 
 
 
