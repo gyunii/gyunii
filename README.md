@@ -2,9 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=350&section=header&text=gyunii&fontSize=100)
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{gyunii}"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{gyunii}"/>
+  </a>
+</div>
 
 <h3 align="center"> 📚 LEARNING 📚 </h3>
 
